@@ -1,0 +1,23 @@
+{
+  "name": "core-node-io-js",
+  "version": "1.0.0",
+  "description": "Core io.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinelanguage/core-io-js.git"
+  },
+  "keywords": [
+    "io.js",
+    "node"
+  ],
+  "author": "sinelanguage",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/sinelanguage/core-io-js/issues"
+  },
+  "homepage": "https://github.com/sinelanguage/core-io-js"
+}
